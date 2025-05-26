@@ -1,0 +1,15 @@
+diff --git a/node_modules/material/segmentedbutton/internal/segmented-button.js b/node_modules/material/segmentedbutton/internal/segmented-button.js
+index 4aae876..48ca941 100644
+--- a/node_modules/material/segmentedbutton/internal/segmented-button.js
++++ b/node_modules/material/segmentedbutton/internal/segmented-button.js
+@@ -40,7 +40,9 @@ export class SegmentedButton extends LitElement {
+     super.update(props);
+     // NOTE: This needs to be set *after* calling super.update() to ensure the
+     // appropriate CSS classes are applied.
+-    this.hasIcon = this.iconElement.length > 0;
++    // this.hasIcon = this.iconElement.length > 0;
++    // hello
++    // ahhhh
+   }
+   nextAnimationState(changedProps) {
+     const prevSelected = changedProps.get('selected');

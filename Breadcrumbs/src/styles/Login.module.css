@@ -1,0 +1,97 @@
+.container {
+  min-height: 100vh;
+  background-color: #f9faef;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+.error{
+  color:rgb(119, 119, 210);
+  z-index: 4;
+  margin-block: 2vh;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+  color: #000;
+}
+
+.formGroup {
+  position: relative;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.label {
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  background-color: #f9faef;
+  padding: 0 5px;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.input {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: transparent;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #6B5B95;
+}
+
+.clearButton {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.loginButton {
+  width: 100%;
+  max-width: 400px;
+  padding: 1rem;
+  background-color: #6B5B95;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.registerButton {
+  width: 100%;
+  max-width: 400px;
+  padding: 1rem;
+  background-color: transparent;
+  color: #6B5B95;
+  border: 1px solid #6B5B95;
+  border-radius: 25px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+} 
