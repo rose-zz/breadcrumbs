@@ -1,0 +1,94 @@
+.searchModal {
+    margin: 20px 0;
+    width: 100%;
+  }
+  
+  .searchBar {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .searchInput {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+  }
+  
+  .searchButton {
+    padding: 10px 15px;
+    background-color: #6B5B95;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .searchButton:hover {
+    background-color: #5a4d7e;
+  }
+  
+  .searchButton:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .resultsContainer {
+    margin-top: 20px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .resultsList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .resultItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .resultItem:last-child {
+    border-bottom: none;
+  }
+  
+  .resultInfo {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .resultName {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .resultEmail {
+    color: #666;
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  
+  .resultButton {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .resultButton:hover {
+    background-color: #45a049;
+  }

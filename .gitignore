@@ -1,0 +1,5 @@
+Breadcrumbs/.next/
+*.gz
+*.old
+*.json
+*.js

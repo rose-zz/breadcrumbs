@@ -1,0 +1,24 @@
+
+  .navBarContainer{
+    display:flex;
+  }
+  
+  .navItem{
+    margin: 1vw;
+    border-radius: 4px 4px 0px 0px;
+    padding: 1vw;
+    transition:0.2s;
+    text-decoration: none;
+    color: black;
+
+  }
+  .navItem:hover{
+    transition:0.2s;
+    color: darkblue;
+    background-color:rgba(0, 0, 0, 0.119);
+  }
+
+
+
+
+  

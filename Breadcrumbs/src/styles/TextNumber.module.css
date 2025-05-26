@@ -1,0 +1,21 @@
+
+  .box{
+    border: solid;
+    border-color: var(----md-sys-color-primary);
+    border-width: 3px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+  }
+  .textNumber{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1vh;
+  }
