@@ -70,8 +70,7 @@ We are currently finalizing deployment and polishing UI/UX.
 
 ### 👨‍👩‍👧‍👦 Team & Acknowledgment
 
-This project was developed as part of a course project at Yale University for course CPSC 491/591 Full-stack Web Development.
-
+This project was developed as part of a course project for CPSC 491/591 Full-stack Web Development at Yale University.
 **Contributors:**
 - [Rose Zhao](https://github.com/rose-zz) 
 - [Jennifer Chen](https://github.com/ChenJieNi2004) 
