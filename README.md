@@ -4,37 +4,54 @@
 
 It allows users to leave and discover geo-tagged messages — called *crumbs* — that can only be read when physically nearby. Users can add friends, customize visibility settings, and even create multi-stage scavenger hunts. Whether you’re leaving a message for a friend or designing a trail of secrets around campus, Breadcrumbs turns geography into storytelling.
 
-> 🌐 **Live demo coming soon** — we're in the final stages of deployment.
 
 ---
 
-### ✨ Features
+## 🔑 Key Features
 
-#### 🗺️ Geo-tagged Notes
-- Leave short messages (“crumbs”) at specific map locations.
-- Crumbs can be:
-  - **Public** – visible to anyone nearby
-  - **Friends-only** – visible to approved friends
-  - **Private** – visible only to yourself
+#### 🗺️ Location-Based Crumbs
 
-#### 👥 Social Features
-- Add friends using their email.
-- Accept or reject friend requests.
-- View friends' stats and profile info.
+- Leave short, geo-tagged messages ("crumbs") at real-world locations.
+- Crumbs are only viewable to users who are physically within range.
+- Customize crumb visibility: **Public**, **Friends-only**, or **Private**.
 
-#### 🧩 Scavenger Hunts
-- Create location-based scavenger hunts with 3–5 crumbs in a fixed order.
-- Discover and follow others’ hunts by unlocking crumbs one at a time as you reach each location.
-- Track **active**, **available**, and **completed** hunts from a central dashboard.
+![Leave Crumb](./screenshot/leave_note.png)
 
-#### 📍 Profile Page
-- Displays your avatar, email, and username.
-- View statistics: crumbs collected, hunts completed, and progress-based **rank** (e.g., Baker → Chef → Master).
-- See a list of friends and access their public stats.
 
-#### 🌍 Map View
-- Browse nearby crumbs based on your current location.
-- Toggle between visibility filters (public, friends-only, private).
+#### 🗺️ Map View
+
+- Explore nearby public, friends-only, and private crumbs.
+- Filter visibility types to customize your experience.
+
+![Map Page](./screenshot/map.png)
+
+#### 📊 Profile Page
+
+- Displays username, email, avatar, and activity stats.
+- Track your rank: **BAKER**, **CHEF**, or **MASTER** — based on completed hunts.
+- See friend list and view their stats via an interactive UI.
+
+![Profile Page](./screenshot/profile.png)
+
+
+#### 🧑‍🤝‍🧑 Social Layer
+
+- Add friends via email-based requests.
+- View friends' profile stats (crumbs collected, hunts completed, etc.).
+- Accept and manage incoming friend requests.
+
+
+#### 🏆 Scavenger Hunts
+
+- Create custom trails of 3–5 crumbs that must be collected in order.
+- Accept and follow hunts created by others.
+- Track hunts in progress and view completed trails with all revealed messages.
+
+![Create Hunt](./screenshot/create_hunt.png)
+![Available Hunts](./screenshot/avail_hunts.png)  
+![Completed Hunts](./screenshot/completed_hunts.png)  
+
+
 
 ---
 
@@ -65,10 +82,6 @@ This project was developed as part of a course project at Yale University.
 - [Jerry Huang](https://github.com/jerryhuang329) 
 
 > 📬 Contact us if you'd like to reuse or extend this idea!
-
----
-
-### 📸 Screenshots *(Optional)*
 
 
 ---
