@@ -1,8 +1,8 @@
 ## 🥖 Breadcrumbs
 
-**Breadcrumbs** is a full-stack web application that turns the world into a note-sharing playground. Think Pokémon Go meets Snapchat, with a sprinkle of storytelling and real-world exploration.
+**Breadcrumbs** is a full-stack web app built for people who like to leave a little something behind. It’s kind of like if Pokémon Go and Snapchat had a quiet, nerdy cousin who was really into maps.
 
-It allows users to leave and discover geo-tagged messages — called *crumbs* — that can only be read when physically nearby. Users can add friends, customize visibility settings, and even create multi-stage scavenger hunts. Whether you’re leaving a message for a friend or designing a trail of secrets around campus, Breadcrumbs turns geography into storytelling.
+With Breadcrumbs, you can drop short geo-tagged notes - called crumbs - that others can read only when they’re nearby. You can add friends, control who sees what, and create scavenger hunts made of 3–5 connected crumbs that unlock in sequence. Whether you’re planning a surprise, leaving inside jokes, or just having fun with your friends, Breadcrumbs turns real-world locations into a space for casual discovery.
 
 
 ---
