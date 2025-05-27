@@ -7,6 +7,15 @@ It allows users to leave and discover geo-tagged messages — called *crumbs* �
 
 ---
 
+### 🔧 Tech Stack
+
+- **Frontend**: React + TypeScript + CSS
+- **Backend**: Next.js (TypeScript)
+- **Database**: Supabase (PostgreSQL, Auth)
+- **Map Integration**: Google Maps API
+
+---
+
 ## 🔑 Key Features
 
 #### 🗺️ Location-Based Crumbs
@@ -51,17 +60,6 @@ It allows users to leave and discover geo-tagged messages — called *crumbs* �
 ![Available Hunts](./screenshot/avail_hunts.png)  
 ![Completed Hunts](./screenshot/completed_hunts.png)  
 
-
-
----
-
-### 🔧 Tech Stack
-
-- **Frontend**: React + TypeScript + CSS
-- **Backend**: Next.js (TypeScript)
-- **Database**: Supabase (PostgreSQL, Auth)
-- **Map Integration**: Google Maps API
-
 ---
 
 ### 🚧 Status
@@ -72,7 +70,7 @@ We are currently finalizing deployment and polishing UI/UX.
 
 ### 👨‍👩‍👧‍👦 Team & Acknowledgment
 
-This project was developed as part of a course project at Yale University.
+This project was developed as part of a course project at Yale University for course CPSC 491/591 Full-stack Web Development.
 
 **Contributors:**
 - [Rose Zhao](https://github.com/rose-zz) 
