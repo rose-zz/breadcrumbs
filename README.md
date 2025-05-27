@@ -40,16 +40,16 @@ It allows users to leave and discover geo-tagged messages — called *crumbs* �
 
 ### 🔧 Tech Stack
 
-- **Frontend**: React + TypeScript + Tailwind CSS
-- **Backend**: Supabase (PostgreSQL, Auth)
+- **Frontend**: React + TypeScript + CSS
+- **Backend**: Next.js (TypeScript)
+- **Database**: Supabase (PostgreSQL, Auth)
 - **Map Integration**: Google Maps API
-- **Deployment**: [Planned for Vercel or Netlify]
 
 ---
 
 ### 🚧 Status
 
-We are currently finalizing deployment and polishing UI/UX. All core features are implemented and functional.
+We are currently finalizing deployment and polishing UI/UX. 
 
 ---
 
@@ -58,11 +58,11 @@ We are currently finalizing deployment and polishing UI/UX. All core features ar
 This project was developed as part of a course project at Yale University.
 
 **Contributors:**
-- [Rose Zhao](https://github.com/yourusername) 
-- [Jennifer Chen](https://github.com/theirusername) 
-- [Chris Shia](https://github.com/theirusername) 
-- [Nicholas Lee](https://github.com/theirusername) 
-- [Jerry Huang](https://github.com/theirusername) 
+- [Rose Zhao](https://github.com/rose-zz) 
+- [Jennifer Chen](https://github.com/ChenJieNi2004) 
+- [Chris Shia](https://github.com/summerhero09) 
+- [Nicholas Lee](https://github.com/NicholasLee76) 
+- [Jerry Huang](https://github.com/jerryhuang329) 
 
 > 📬 Contact us if you'd like to reuse or extend this idea!
 
@@ -70,10 +70,6 @@ This project was developed as part of a course project at Yale University.
 
 ### 📸 Screenshots *(Optional)*
 
-If you have time, add a few screenshots or a demo GIF of:
-- A crumb being left on the map
-- A scavenger hunt in progress
-- The profile/statistics dashboard
 
 ---
 
